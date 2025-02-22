@@ -5,10 +5,8 @@
 <br>
 
 <div style="display: flex; justify-content: center;">
-
-  <img alt="Projeto Desktop" src=".github/Desk.PNG" style="margin: 10px; max-width: 75%; height: auto;" />
-  <img alt="Projeto Mobile" src=".github/Mobile.PNG" style="margin: 10px; max-width: 20%; height: auto;" />
-
+  <img alt="Projeto Desktop" src=".github/Desk.PNG" style="margin: 2px; width: 70%; height: auto;" />
+  <img alt="Projeto Mobile" src=".github/Mobile.PNG" style="margin: 2px; width: 20%; height: auto;" />
 </div>
 
 ## ✨ Tecnologias
