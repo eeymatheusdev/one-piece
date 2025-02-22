@@ -4,9 +4,9 @@
 
 <br>
 
-<p align="center">
-  <img alt="Projeto Desktop" src=".github/Desk.PNG" width="100%">
-  <img alt="Projeto Mobile" src=".github/Mobile.PNG" align="center">
+<p display:"flex" justify-content:"center align-items:"center">
+  <img alt="Projeto Desktop" src=".github/Desk.PNG" margin:"10px" max-width:"100%" height:"auto">
+  <img alt="Projeto Mobile" src=".github/Mobile.PNG" margin:"10px" max-width:"100%" height:"auto">
 </p>
 
 ## ✨ Tecnologias
